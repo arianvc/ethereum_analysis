@@ -28,15 +28,15 @@ $ source venv/bin/activate
 ```
 Install the requirements
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 You can either open the notebook
 ```
-jupyter notebook
+$ jupyter notebook
 ```
 Or run the python file
 ```
-EthQ.py
+$ python EthQ.py
 ```
 
 
