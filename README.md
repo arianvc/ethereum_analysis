@@ -15,6 +15,30 @@ I used web3 in python with Infura as provider on ropsten network.
 Python is my language of choice since it is easy for data manipulation and I have experience in it (Machine learning and web development). JS is also a good choice.
 I used Infura because it is much faster to work with (compared to local node implementation; about 100x !). Also ropsten is the de facto option for testnet (although other networks exist).
 
+## Prerequisites
+
+Obtain an Infura API key, it's easy!
+Create a virtualenv
+'''
+$ virtualenv -p python3 venv
+'''
+Activate it
+'''
+$ source venv/bin/activate
+'''
+Install the requirements
+'''
+pip install -r requirements.txt
+'''
+You can either open the notebook
+'''
+jupyter notebook
+'''
+Or run the python file
+'''
+EthQ.py
+'''
+
 
 ## Limitations
 
