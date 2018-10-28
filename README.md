@@ -19,25 +19,25 @@ I used Infura because it is much faster to work with (compared to local node imp
 
 Obtain an Infura API key, it's easy!
 Create a virtualenv
-'''
+```
 $ virtualenv -p python3 venv
-'''
+```
 Activate it
-'''
+```
 $ source venv/bin/activate
-'''
+```
 Install the requirements
-'''
+```
 pip install -r requirements.txt
-'''
+```
 You can either open the notebook
-'''
+```
 jupyter notebook
-'''
+```
 Or run the python file
-'''
+```
 EthQ.py
-'''
+```
 
 
 ## Limitations
